@@ -25,6 +25,7 @@ Rendering:
 Clouds
 Gravitational lensing
 
+Movement Branch -> Lerp(Vector) -> Lerp(Rotate) -> Set Relative location Interpolation
 Strong gravitational fields measurably slow passage of time relative to others.
 Tidal Waves and Tidal Forces Magnitudes that orbiting a Black Hole might create.
 
